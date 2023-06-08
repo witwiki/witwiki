@@ -1,5 +1,7 @@
 ### Hey there 👋
 - 🔭 I’m currently working on Watchtower at Metasolis
+- 👯 I’m open to collaborate on token engineering ideas, concepts and projects.
+- 📫 How to reach me: @gritty698 on twitter. My DMs are open to serious long-term focused projects.
 
 <!--
 **witwiki/witwiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
